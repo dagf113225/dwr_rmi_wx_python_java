@@ -1,0 +1,15 @@
+<!--pages/one/one.wxml-->
+<view  class="base">
+   <view  class="top">
+      
+   </view>
+
+   <view  class="content">
+       <view class="contentone">
+         {{text1}}
+       </view>
+   </view>
+   <view  class="bottom">
+       智码堂实训中心
+   </view>
+</view>
